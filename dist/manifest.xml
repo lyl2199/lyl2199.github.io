@@ -17,7 +17,7 @@
   </Hosts>
   <DefaultSettings>
     <!--   <SourceLocation DefaultValue="https://github/lyl2199/Officeaddin/taskpane.html"/>  -->
-    <SourceLocation DefaultValue="https://lyl2199.github.io/"/>
+    <SourceLocation DefaultValue="https://lyl2199.github.io/dist/taskpane.html"/>
   </DefaultSettings>
   <Permissions>ReadWriteDocument</Permissions>
   <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
